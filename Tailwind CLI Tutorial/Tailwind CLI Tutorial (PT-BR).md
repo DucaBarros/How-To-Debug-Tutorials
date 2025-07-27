@@ -30,4 +30,4 @@
 
 ![Imagem 05](https://github.com/DucaBarros/How-To-Debug-Tutorials/blob/406786e87a16e32acdd413c6d47ffa611d06e235/Tailwind%20CLI%20Tutorial/img05.jpg)
 
-8) Agora é só abir seu arquivo _index.html_, referenciar o arquivo _output.css_ no atributo _href_ da tag _<link>_ (conforme imagem), salvar o arquivo _index.html_ e seu ambiente para usar o **Tailwind** está pronto.
+8) Agora é só abir seu arquivo _index.html_, referenciar o arquivo _output.css_ no atributo _href_ da tag _link_ (conforme imagem), salvar o arquivo _index.html_ e seu ambiente para usar o **Tailwind** está pronto.
