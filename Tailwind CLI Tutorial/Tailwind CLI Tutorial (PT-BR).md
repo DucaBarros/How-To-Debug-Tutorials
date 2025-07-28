@@ -30,4 +30,14 @@
 
 ![Imagem 05](https://github.com/DucaBarros/How-To-Debug-Tutorials/blob/406786e87a16e32acdd413c6d47ffa611d06e235/Tailwind%20CLI%20Tutorial/img05.jpg)
 
-8) Agora é só abir seu arquivo _index.html_, referenciar o arquivo _output.css_ no atributo _href_ da tag _link_ (conforme imagem), salvar o arquivo _index.html_ e seu ambiente para usar o **Tailwind** está pronto.
+8) Agora é só abir seu arquivo _index.html_, referenciar o arquivo _output.css_ no atributo _href_ da tag _link_ (conforme imagem), salvar o arquivo _index.html_
+  
+9) Seu ambiente está pronto para receber código **Tailwind**.
+
+![Imagem 06](https://github.com/DucaBarros/How-To-Debug-Tutorials/blob/cd2e8c1507071f22ced1579ce21003b48434b6d5/Tailwind%20CLI%20Tutorial/img06.jpg)
+
+### **Recomendação**
+
+- Instale a extenão **Tailwind CSS IntelliSense** para ajudar na produtividade ao usar o Tailwind.
+
+![Imagem 07](https://github.com/DucaBarros/How-To-Debug-Tutorials/blob/cd2e8c1507071f22ced1579ce21003b48434b6d5/Tailwind%20CLI%20Tutorial/img07.jpg)
