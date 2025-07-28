@@ -1,6 +1,7 @@
 ## How To Debug Tutorials
 
 * Practical tutorials for developers to solve issues and challenges.
+* Tutoriais práticos para desenvolvedores resolverem problemas e desafios.
 
 ## Topics
 
